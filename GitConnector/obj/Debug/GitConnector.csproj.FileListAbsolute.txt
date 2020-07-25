@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\GitConnector\GitConnector\bin\Debug\GitConnector.exe.config
+C:\Users\DELL\source\repos\GitConnector\GitConnector\bin\Debug\GitConnector.exe
+C:\Users\DELL\source\repos\GitConnector\GitConnector\bin\Debug\GitConnector.pdb
+C:\Users\DELL\source\repos\GitConnector\GitConnector\obj\Debug\GitConnector.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\GitConnector\GitConnector\obj\Debug\GitConnector.Form1.resources
+C:\Users\DELL\source\repos\GitConnector\GitConnector\obj\Debug\GitConnector.Properties.Resources.resources
+C:\Users\DELL\source\repos\GitConnector\GitConnector\obj\Debug\GitConnector.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\GitConnector\GitConnector\obj\Debug\GitConnector.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\GitConnector\GitConnector\obj\Debug\GitConnector.exe
+C:\Users\DELL\source\repos\GitConnector\GitConnector\obj\Debug\GitConnector.pdb
+C:\Users\DELL\source\repos\GitConnector\GitConnector\bin\Debug\GitConnector.exe.manifest
+C:\Users\DELL\source\repos\GitConnector\GitConnector\bin\Debug\GitConnector.application
+C:\Users\DELL\source\repos\GitConnector\GitConnector\obj\Debug\GitConnector.exe.manifest
+C:\Users\DELL\source\repos\GitConnector\GitConnector\obj\Debug\GitConnector.application
